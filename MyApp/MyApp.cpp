@@ -1,7 +1,5 @@
 #include "MyApp.h"
 
-
-
 void read_from_file(const string& name_file, map<string, int>& words)
 {
     string temp_str;
